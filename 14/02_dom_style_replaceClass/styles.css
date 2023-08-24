@@ -1,0 +1,32 @@
+body {
+    font-weight: bold;
+}
+
+/* div {
+    border: 1px solid black;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    clear: both;
+    margin: 4px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 300px;
+} */
+
+.message {
+    background-color: white;
+    border: 2px solid black;
+    padding: 16px;
+    margin-bottom: 20px;
+}
+
+.orange-box {
+    background-color: orange;
+}
+
+.green-box {
+    background-color: rgb(87, 240, 73);
+}
