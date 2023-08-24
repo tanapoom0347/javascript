@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+    var numbers = [3,4,6]
+    for (j of numbers) {
+        document.write('<div style="border: 1px solid red;float: left;margin-right: 10px; text-align: right">')
+        document.write('n=' + j + '<br>')
+        for (i=1; i<=j; i++) {
+            document.write('*'.repeat(i) + '<br>')
+        }
+        document.write('</div>')
+    }
+</script>
+</html>
