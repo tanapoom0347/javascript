@@ -1,0 +1,15 @@
+.avatar {
+    border-radius: 50%;
+}
+
+.user-list {
+    border: 0px solid black;
+}
+
+.user-item {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    /* text-align: center; */
+}

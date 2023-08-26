@@ -1,0 +1,13 @@
+.content {
+    height: 70vh;
+    background-color: rgba(0, 0, 0, 0.808);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.lyric-box {
+    text-align: center;
+    /* border: 2px solid red; */
+    color: white;
+}
